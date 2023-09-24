@@ -1,0 +1,12 @@
+{
+  "cep": "13657-004",
+  "logradouro": "Rua Doutor Amaral",
+  "complemento": "",
+  "bairro": "Vila Vertente",
+  "localidade": "Santa Cruz das Palmeiras",
+  "uf": "SP",
+  "ibge": "3546306",
+  "gia": "6117",
+  "ddd": "19",
+  "siafi": "7027"
+}

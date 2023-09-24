@@ -1,0 +1,29 @@
+[
+  {
+    "Titulo": "Titanic",
+    "AnoDeLancamento": 1997,
+    "DuracaoEmMinutos": 194,
+    "EstaIncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0,
+    "QuantidadeDeAvaliacoes": 0,
+    "MediaDasAvaliacoes": 0.0
+  },
+  {
+    "Titulo": "Lion",
+    "AnoDeLancamento": 2016,
+    "DuracaoEmMinutos": 118,
+    "EstaIncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0,
+    "QuantidadeDeAvaliacoes": 0,
+    "MediaDasAvaliacoes": 0.0
+  },
+  {
+    "Titulo": "Matrix",
+    "AnoDeLancamento": 1993,
+    "DuracaoEmMinutos": 60,
+    "EstaIncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0,
+    "QuantidadeDeAvaliacoes": 0,
+    "MediaDasAvaliacoes": 0.0
+  }
+]
